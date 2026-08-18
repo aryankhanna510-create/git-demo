@@ -9,3 +9,6 @@ def cal_avg():
     print("The average of the three numbers is:", avg)
 
 cal_avg()
+print("This is New Line")
+print("This is New Line")
+print("This is New Line")
